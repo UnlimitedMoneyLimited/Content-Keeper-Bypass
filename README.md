@@ -9,7 +9,7 @@ as soon as you are back to this screen. (image below)
 
 Do the setup process as normal. (if you get stuck in the enrolling screen just press esc 2 times)
 
-2.STEP 2 🤑. make sure google pay installs as soon as it is finished installing immedietly turn disable your internet connection so that it wont install the "managed applications"
+2.STEP 2 🤑. make sure google play installs, as soon as it is finished installing immedietly turn off your internet connection so that it wont install any "managed applications"
 
 ![image](https://github.com/UnlimitedMoneyLimited/Content-Keeper-Bypass/assets/153864886/1ca57b66-88c1-485c-8b1f-a671388cdf74)
 
