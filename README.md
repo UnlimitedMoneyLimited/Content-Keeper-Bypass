@@ -1,6 +1,6 @@
 Alright I dont know how this shit works but here we go.
 
-This has been tested ONLY on chromebooks, this can really work on any version.
+This only works on chromebooks. the version doesnt matter.
 
 1. start by powerwashing your chromebook by pressing esc + refresh + power button, after its done, you should be brought to this screen.
 
