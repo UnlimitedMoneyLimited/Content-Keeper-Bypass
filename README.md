@@ -1,4 +1,4 @@
-This is the last thing you'd most likely not want to try.
+The crappiest mathod known to man kind 💩
 
 This only works on chromebooks. the version doesnt matter.
 
