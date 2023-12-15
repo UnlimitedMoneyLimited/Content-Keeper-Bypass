@@ -1,4 +1,4 @@
-Alright I dont know how this shit works but here we go.
+This is the last thing you'd most likely not want to try.
 
 This only works on chromebooks. the version doesnt matter.
 
@@ -21,6 +21,7 @@ NOTE if you visit websites that have just 1 ad, it will lag the crap out of you.
 
 ![image](https://github.com/UnlimitedMoneyLimited/Content-Keeper-Bypass/assets/153864886/dd92dfca-cfaf-4116-8333-cb07a1b2779f)
 
-if you would like to change how i wrote this then you can as i suck at explaining stuff. have fun with unrestricted internet access.
+Have fun with unrestricted internet access.
+you can also run javascript bookmarklets.
 
 
