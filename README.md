@@ -1,4 +1,6 @@
-This only works on chromebooks. the version doesnt matter.
+For Chromebook Versions V120 and below.
+Havent tried V121
+Does NOT work on V122
 
 1. start by powerwashing your chromebook by pressing esc + refresh + power button, after its done, you should be brought to this screen.
 
@@ -13,11 +15,11 @@ make sure the blue icon turns grey.
 
 3. go to settings --> click on "Apps" --> click on "Manage your apps" --> click on the Google Play Store --> more settings --> disable it.
 
-now open chrome and serahcc something random as you will be stuck in a 5 minutes loading screen.
+now open chrome and search something random, you will be brought to a 5 minute loading screen from CK Express.
 
-That should be it and remember to not connect to your managed network if it does have a proxy on it since it will block you from all those websites you were dreaming of visiting.
-as soon as you serach something up you will be stuck in this screen of "initializing" but eventually you should end up with this.
+![Screenshot 2024-04-30 8 40 15 AM](https://github.com/UnlimitedMoneyLimited/Content-Keeper-Bypass/assets/153864886/f9e07854-581b-492d-baf6-0e61dc84c906)
 
+after five minutes this screen should pop up signaling that you have succesfully bypassed CK Express and can now browse the web and use java bookmarklets unless there is another extension that prevents it.
 ![image](https://github.com/UnlimitedMoneyLimited/Content-Keeper-Bypass/assets/153864886/dd92dfca-cfaf-4116-8333-cb07a1b2779f)
 
 
