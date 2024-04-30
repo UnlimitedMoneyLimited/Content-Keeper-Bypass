@@ -13,7 +13,7 @@ make sure the blue icon turns grey.
 
 ![image](https://github.com/UnlimitedMoneyLimited/Content-Keeper-Bypass/assets/153864886/1ca57b66-88c1-485c-8b1f-a671388cdf74)
 
-3. go to settings --> click on "Apps" --> click on "Manage your apps" --> click on the Google Play Store --> disable it.
+3. go to settings --> click on "Apps" --> click on "Manage your apps" --> click on the Google Play Store --> more settings --> disable it.
 
 That should be it and remember to not connect to your managed network if it does have a proxy on it since it will block you from all those websites you were dreaming of visiting.
 as soon as you serach something up you will be stuck in this screen of "initializing" but eventually you should end up with this.
