@@ -13,6 +13,8 @@ make sure the blue icon turns grey.
 
 3. go to settings --> click on "Apps" --> click on "Manage your apps" --> click on the Google Play Store --> more settings --> disable it.
 
+now open chrome and serahcc something random as you will be stuck in a 5 minutes loading screen.
+
 That should be it and remember to not connect to your managed network if it does have a proxy on it since it will block you from all those websites you were dreaming of visiting.
 as soon as you serach something up you will be stuck in this screen of "initializing" but eventually you should end up with this.
 
