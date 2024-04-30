@@ -1,5 +1,3 @@
-The crappiest mathod known to man kind 💩
-
 This only works on chromebooks. the version doesnt matter.
 
 1. start by powerwashing your chromebook by pressing esc + refresh + power button, after its done, you should be brought to this screen.
@@ -8,7 +6,7 @@ This only works on chromebooks. the version doesnt matter.
 
 Do the setup process as normal.
 
-2.Make sure google play installs, as soon as it is finished installing immedietly turn off your internet connection so that it wont install any "managed applications."
+2.Make sure google play installs (you can tell that it has finished installing if you see a little briefcase icon on the notifications tab on the bottom right of the screen), as soon as it is finished installing turn off your internet connection so that it wont install any "managed applications."
 make sure the blue icon turns grey.
 
 ![image](https://github.com/UnlimitedMoneyLimited/Content-Keeper-Bypass/assets/153864886/1ca57b66-88c1-485c-8b1f-a671388cdf74)
@@ -17,11 +15,7 @@ make sure the blue icon turns grey.
 
 That should be it and remember to not connect to your managed network if it does have a proxy on it since it will block you from all those websites you were dreaming of visiting.
 as soon as you serach something up you will be stuck in this screen of "initializing" but eventually you should end up with this.
-NOTE if you visit websites that have just 1 ad, it will lag the crap out of you.
 
 ![image](https://github.com/UnlimitedMoneyLimited/Content-Keeper-Bypass/assets/153864886/dd92dfca-cfaf-4116-8333-cb07a1b2779f)
-
-Have fun with unrestricted internet access.
-you can also run javascript bookmarklets.
 
 
