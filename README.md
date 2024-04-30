@@ -1,3 +1,4 @@
+Playstore
 For Chromebook Versions V120 and below.
 Havent tried V121
 Does NOT work on V122
